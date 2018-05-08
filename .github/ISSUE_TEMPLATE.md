@@ -1,4 +1,4 @@
-* corticalqa version:
+* visualqa version:
 * Python version:
 * Operating System:
 
